@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd-projects",
+  "version": "0.0.0",
+  "description": "A repo to store katas whose solutions have evolved through TDD.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinachan/js-tdd-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinachan/js-tdd-projects/issues"
+  },
+  "homepage": "https://github.com/edwinachan/js-tdd-projects#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
